@@ -13,7 +13,6 @@
 (https://app.edcafe.ai/chatbots/69a8cccb149461c9c16a691e)
 ## CODIGO QR
 ![0](https://github.com/user-attachments/assets/02e2cdaf-b1ca-4dd0-aa3a-537fd7143512)
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/928ee3f5-ea61-4bb2-a4a5-44898e8c10e7" />
 
 ## 🏛️MUSEO virtual (GALLERY)
 Este museo permite explorar visualmente de manera digatal  la cultura de nuestro maiz 
@@ -21,21 +20,22 @@ Este museo permite explorar visualmente de manera digatal  la cultura de nuestro
 **{👉Haz clic aqui para visitar el museo virtual} https://app.edcafe.ai/chatbots/69a8cccb149461c9c16a691e
 
 ## ¿que encontraras en el museo?
- - **como es el maiz en el area de ciencias**
- - **cmo es el maiz en el area de ingenieria**
- - **como es el maiz en el area del arte**
- - **como es el maiz en el area de humanidades**
+ - **ciencia** la epoca colonial-lagran revolucion industrial.
+ - **ingenieria** el pilon manual-la planta industrial.
+ - **arte** el legado ancestral-el diseño industrial-la herencia colonial.
+ - **humanidades** el maiz en la gastronomia-refranes y tradiciones orales.
 
 
 ## infografia
+esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de convierten al maiz en la base de la resistencia fisica del cosechador de maiz 
+
+<img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/783beef0-aefe-4429-8344-7066afe2bf84" />
+
+<img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d9f71de-8401-408f-855a-baf637e3d0b9" />
 
 
-
-
-
-
-
-
+## 🎯 conclusion
+este proyecto integra la **inteligencia artifial** (chatbot) con recursos **visuales y didacticos** (museao e infografia) para ofrecer una herramienta integral en nuestro enfoque STEAM-H.el objetivo es facilitar el acceso a diagnosticos tecnicos precisos mientras se preserva y difunde la importancia cultural de maiz bajo la tecnologia.
 
 
 
