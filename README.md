@@ -34,6 +34,25 @@ esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de
 <img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d9f71de-8401-408f-855a-baf637e3d0b9" />
 
 
+## infografia 
+Esta infografía detalla el proceso industrial de fabricación de los Doritos, centrándose en las dos etapas clave que definen su textura: el horneado y la fritura.
+
+
+
+## portafolio
+
+
+
+## pruebas y evidencias de la evolución 
+**HOMO SAPIENS**
+
+## Mediciones a escala cronológica y análisis estadísticos de rasgos comparativos
+
+## Audiolibro 
+**el mosaiquito verde**
+
+
+
 ## 🎯 conclusion
 este proyecto integra la **inteligencia artifial** (chatbot) con recursos **visuales y didacticos** (museao e infografia) para ofrecer una herramienta integral en nuestro enfoque STEAM-H.el objetivo es facilitar el acceso a diagnosticos tecnicos precisos mientras se preserva y difunde la importancia cultural de maiz bajo la tecnologia.
 
