@@ -17,7 +17,7 @@
 ## 🏛️MUSEO virtual (GALLERY)
 Este museo permite explorar visualmente de manera digatal  la cultura de nuestro maiz 
 
-**{👉Haz clic aqui para visitar el museo virtual} https://app.edcafe.ai/chatbots/69a8cccb149461c9c16a691e
+**{👉Haz clic aqui para visitar el museo} https//www.emaze.com/@ALFTWTRZF/el-maiz-c
 
 ## ¿que encontraras en el museo?
  - **ciencia** la epoca colonial-lagran revolucion industrial.
