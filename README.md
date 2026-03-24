@@ -37,19 +37,14 @@ esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de
 ## infografia 
 Esta infografía detalla el proceso industrial de fabricación de los Doritos, centrándose en las dos etapas clave que definen su textura: el horneado y la fritura.
 
-
-
-## portafolio
-
-
-
-## pruebas y evidencias de la evolución 
-**HOMO SAPIENS**
+## pruebas y evidencias de la evolución
+un museo antropologico en clases,donde se van a exiben los huesos,alimentacion,herramientas y creencias de todos los homo 
 
 ## Mediciones a escala cronológica y análisis estadísticos de rasgos comparativos
 
 ## Audiolibro 
 **el mosaiquito verde**
+narraremos todo el cuento a través de imágenes y audios 
 
 
 
