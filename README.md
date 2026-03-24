@@ -34,7 +34,9 @@ esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de
 <img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d9f71de-8401-408f-855a-baf637e3d0b9" />
 
 ## infografia 
-Esta infografía detalla el proceso industrial de fabricación de los Doritos, centrándose en las dos etapas clave que definen su textura: el horneado y la fritura.
+Esta infografía detalla el proceso industrial de fabricación de los Doritos, centrándose en las dos etapas clave que definen su textura: el horneado y la fritura. 
+
+![IMG-20260323-WA0073](https://github.com/user-attachments/assets/807d9bf7-6081-4c9f-b800-877acc7d0d14)
 
 ## ⛏️🔨 pruebas y evidencias de la evolución 🪓⚒️
 un museo antropologico en clases,donde se van a exiber los huesos,alimentacion,herramientas y creencias de todos los **homo**
@@ -48,7 +50,6 @@ un museo antropologico en clases,donde se van a exiber los huesos,alimentacion,h
 ​La evolución no se observa en días, sino en millones de años.por eso nosotros vamos a medir y analizar todos los huesos y herramientas de los **homo** Para entender este proceso.
 
 ## 📚 Audiolibro 
-**el mosaiquito verde**
 Este recurso auditivo está diseñado para facilitar el aprendizaje;narraremos todo el cuento a través de imágenes y audios 
 
 ## 🎯 conclusion
