@@ -1,6 +1,7 @@
 # documentacion-STEAMH-CMEB-B 
 
 ## CHAT BOT
+**computación**
 "este chat bot utiliza inteligengia artificial para responder tus preguntas,es un asistente especializado en **ingenieria agronomica del maiz** que ofrece diagnosticos fitopatologicos,calculos de riego y fertilizacion,con un diseño experimental basado en los criterios **FAO** (Organizacion de las naciones unidas para la alimentacion y la agricultura)
 
 ## Caracteristicas
@@ -15,6 +16,7 @@
 ![0](https://github.com/user-attachments/assets/02e2cdaf-b1ca-4dd0-aa3a-537fd7143512)
 
 ## 🏛️MUSEO virtual (GALLERY)
+**FSN**
 Este museo permite explorar visualmente de manera digatal  la cultura de nuestro maiz 
 
 **{👉Haz clic aqui para visitar el museo} https//www.emaze.com/@ALFTWTRZF/el-maiz-c
@@ -27,6 +29,7 @@ Este museo permite explorar visualmente de manera digatal  la cultura de nuestro
 
 
 ## infografia
+**educación física**
 esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de convierten al maiz en la base de la resistencia fisica del cosechador de maiz 
 
 <img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/783beef0-aefe-4429-8344-7066afe2bf84" />
@@ -34,11 +37,13 @@ esta infografian detalla la eficiencia nutricional y los procesos bioquimicos de
 <img width="512" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d9f71de-8401-408f-855a-baf637e3d0b9" />
 
 ## infografia 
+**quimica**
 Esta infografía detalla el proceso industrial de fabricación de los Doritos, centrándose en las dos etapas clave que definen su textura: el horneado y la fritura. 
 
 ![IMG-20260323-WA0073](https://github.com/user-attachments/assets/807d9bf7-6081-4c9f-b800-877acc7d0d14)
 
 ## ⛏️🔨 pruebas y evidencias de la evolución 🪓⚒️
+**biología**
 un museo antropologico en clases,donde se van a exiber los huesos,alimentacion,herramientas y creencias de todos los **homo**
 **homo habilis**
 **homo erectus**
@@ -47,9 +52,11 @@ un museo antropologico en clases,donde se van a exiber los huesos,alimentacion,h
 **homo sapiens**
 
 ## 📏 Mediciones a escala cronológica y análisis estadísticos de rasgos comparativos
+**matemáticas**
 ​La evolución no se observa en días, sino en millones de años.por eso nosotros vamos a medir y analizar todos los huesos y herramientas de los **homo** Para entender este proceso.
 
 ## 📚 Audiolibro 
+**castellano**
 Este recurso auditivo está diseñado para facilitar el aprendizaje;narraremos todo el cuento a través de imágenes y audios 
 
 ## 🎯 conclusion
