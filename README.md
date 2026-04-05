@@ -1,4 +1,4 @@
-⁸# documentacion-STEAMH-CMEB-B 
+⁸# Documentacion-STEAMH-CMEB-B 
 
 ## CHAT BOT
 **Computación**
@@ -57,7 +57,7 @@ un museo antropologico en clases,donde se van a exiber los huesos,alimentacion,h
 **Homo sapiens**
 
 ## 📏 Mediciones a escala cronológica y análisis estadísticos de rasgos comparativos
-**matemáticas**
+**Matemáticas**
 
 ​La evolución no se observa en días, sino en millones de años.por eso nosotros vamos a medir y analizar todos los huesos y herramientas de los **homo** Para entender este proceso.
 
