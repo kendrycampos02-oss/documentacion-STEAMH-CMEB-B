@@ -1,4 +1,4 @@
-⁸# Documentacion-STEAMH-CMEB-B 
+# Documentacion-STEAMH-CMEB-B 
 
 ## CHAT BOT
 **Computación**
